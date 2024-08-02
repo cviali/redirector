@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- saved from url=(0043)https://link-sgacor44.web.app/?id=asdasdasd -->
 <html ⚡="" lang="id" amp-version="2406131415000" class="i-amphtml-singledoc i-amphtml-standalone">
 
 <head>
@@ -1164,14 +1163,9 @@
 
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1,maximum-scale=1,user-scalable=no">
-    <script async="" src="./SLOT GACOR 🐐 Daftar Situs Slot Terbaru Resmi Mudah Menang Maxwin_files/v0.js.download"></script>
-    <script async="" custom-element="amp-carousel" src="./SLOT GACOR 🐐 Daftar Situs Slot Terbaru Resmi Mudah Menang Maxwin_files/amp-carousel-0.2.js.download"></script>
-    <script async="" custom-element="amp-sidebar" src="./SLOT GACOR 🐐 Daftar Situs Slot Terbaru Resmi Mudah Menang Maxwin_files/amp-sidebar-0.1.js.download"></script>
     <meta name="theme-color" content="#000080">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-appc-status-bar-style" content="black">
-    <link href="https://www.kiyotaolx.shop/wp-content/uploads/2024/05/cropped-Favicon-1-32x32.png" rel="shortcut icon">
-    <link rel="apple-touch-icon" href="https://www.kiyotaolx.shop/wp-content/uploads/2024/05/cropped-Favicon-1-32x32.png">
     <link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
     <title>SLOT GACOR 🐐 Daftar Situs Slot Terbaru Resmi Mudah Menang Maxwin</title>
@@ -5915,8 +5909,6 @@
             }
         </style>
     </noscript>
-    <script async="" custom-element="amp-auto-lightbox" data-script="amp-auto-lightbox" i-amphtml-inserted="" crossorigin="anonymous" src="./SLOT GACOR 🐐 Daftar Situs Slot Terbaru Resmi Mudah Menang Maxwin_files/amp-auto-lightbox-0.1.js.download"></script>
-    <script async="" custom-element="amp-loader" data-script="amp-loader" i-amphtml-inserted="" crossorigin="anonymous" src="./SLOT GACOR 🐐 Daftar Situs Slot Terbaru Resmi Mudah Menang Maxwin_files/amp-loader-0.1.js.download"></script>
     <style>
         .ismanga {
             font-family: "Comic Neue"
@@ -7033,7 +7025,7 @@
             <div class="header-holder d-flex flex-wrap justify-content-between align-items-center">
                 <div class="brand-logo d-none d-lg-inline-block">
                     <div class="logo d-block">
-                        <a href="https://link-sgacor44.web.app/?id=asdasdasd#">
+                        <a href="">
                         </a>
                     </div>
                 </div>
@@ -7043,12 +7035,12 @@
                             <ul class="left"></ul>
                             <ul class="header-login-signup d-flex align-items-center">
                                 <li>
-                                    <a href="https://terobosgs88.xyz" target="_blank" rel="noopener nofollow" class="login">
+                                    <a href="https://shopee.co.id/" target="_blank" rel="noopener nofollow" class="login">
                                         <span>MASUK</span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://terobosgs88.xyz" target="_blank" rel="noopener nofollow" class="signup">
+                                    <a href="https://shopee.co.id/" target="_blank" rel="noopener nofollow" class="signup">
                                         <span>DAFTAR</span>
                                     </a>
                                 </li>
@@ -7058,7 +7050,7 @@
                     <div class="header-bottom">
                         <div class="header-wrapper justify-content-lg-end">
                             <div class="mobile-logo d-lg-none">
-                                <a href="https://link-sgacor44.web.app/?id=asdasdasd#">
+                                <a href="/">
                                 </a>
                             </div>
                             <div class="menu-area">
@@ -7098,10 +7090,10 @@
                             <div class="container p-0">
                                 <div class="row g-3 justify-content-center">
                                     <div class="col-6">
-                                        <a href="https://terobosgs88.xyz" target="_blank" rel="noopener nofollow" class="cta-masuk text-center d-block">MASUK</a>
+                                        <a href="https://shopee.co.id/" target="_blank" rel="noopener nofollow" class="cta-masuk text-center d-block">MASUK</a>
                                     </div>
                                     <div class="col-6">
-                                        <a href="https://terobosgs88.xyz" target="_blank" rel="noopener nofollow" class="cta-daftar text-center d-block">DAFTAR</a>
+                                        <a href="https://shopee.co.id/" target="_blank" rel="noopener nofollow" class="cta-daftar text-center d-block">DAFTAR</a>
                                     </div>
                                 </div>
                             </div>
@@ -7129,22 +7121,22 @@
     <amp-sidebar id="sidebar-menu" layout="nodisplay" side="right" class="i-amphtml-element i-amphtml-layout-nodisplay i-amphtml-overlay i-amphtml-scrollable i-amphtml-built" hidden="" i-amphtml-layout="nodisplay" role="menu" tabindex="-1"><button class="i-amphtml-screen-reader" tabindex="-1">Close the sidebar</button>
         <ul>
             <li>
-                <a href="https://terobosgs88.xyz">Beranda</a>
+                <a href="https://shopee.co.id/">Beranda</a>
             </li>
             <li>
-                <a href="https://terobosgs88.xyz" target="_blank" rel="noopener nofollow">Daftar</a>
+                <a href="https://shopee.co.id/" target="_blank" rel="noopener nofollow">Daftar</a>
             </li>
             <li>
-                <a href="https://terobosgs88.xyz" target="_blank" rel="noopener nofollow">Masuk</a>
+                <a href="https://shopee.co.id/" target="_blank" rel="noopener nofollow">Masuk</a>
             </li>
             <li>
-                <a href="https://terobosgs88.xyz" target="_blank" rel="noopener nofollow">Promosi</a>
+                <a href="https://shopee.co.id/" target="_blank" rel="noopener nofollow">Promosi</a>
             </li>
         </ul>
         <button class="i-amphtml-screen-reader" tabindex="-1">Close the sidebar</button>
     </amp-sidebar>
     <div class="floating">
-        <a class="cta-daftar text-center d-block btn-blink" href="https://terobosgs88.xyz" target="_blank" rel="noopener nofollow">LINK LOGIN - DAFTAR</a>
+        <a class="cta-daftar text-center d-block btn-blink" href="https://shopee.co.id/" target="_blank" rel="noopener nofollow">LINK LOGIN - DAFTAR</a>
     </div>
 
 
