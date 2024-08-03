@@ -7035,12 +7035,12 @@
                             <ul class="left"></ul>
                             <ul class="header-login-signup d-flex align-items-center">
                                 <li>
-                                    <a href="https://shopee.co.id/" target="_blank" rel="noopener nofollow" class="login">
+                                    <a href="https://urlis.net/zcsskq49" target="_blank" rel="noopener nofollow" class="login">
                                         <span>MASUK</span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://shopee.co.id/" target="_blank" rel="noopener nofollow" class="signup">
+                                    <a href="https://urlis.net/zcsskq49" target="_blank" rel="noopener nofollow" class="signup">
                                         <span>DAFTAR</span>
                                     </a>
                                 </li>
@@ -7090,10 +7090,10 @@
                             <div class="container p-0">
                                 <div class="row g-3 justify-content-center">
                                     <div class="col-6">
-                                        <a href="https://shopee.co.id/" target="_blank" rel="noopener nofollow" class="cta-masuk text-center d-block">MASUK</a>
+                                        <a href="https://urlis.net/zcsskq49" target="_blank" rel="noopener nofollow" class="cta-masuk text-center d-block">MASUK</a>
                                     </div>
                                     <div class="col-6">
-                                        <a href="https://shopee.co.id/" target="_blank" rel="noopener nofollow" class="cta-daftar text-center d-block">DAFTAR</a>
+                                        <a href="https://urlis.net/zcsskq49" target="_blank" rel="noopener nofollow" class="cta-daftar text-center d-block">DAFTAR</a>
                                     </div>
                                 </div>
                             </div>
@@ -7121,22 +7121,22 @@
     <amp-sidebar id="sidebar-menu" layout="nodisplay" side="right" class="i-amphtml-element i-amphtml-layout-nodisplay i-amphtml-overlay i-amphtml-scrollable i-amphtml-built" hidden="" i-amphtml-layout="nodisplay" role="menu" tabindex="-1"><button class="i-amphtml-screen-reader" tabindex="-1">Close the sidebar</button>
         <ul>
             <li>
-                <a href="https://shopee.co.id/">Beranda</a>
+                <a href="https://urlis.net/zcsskq49">Beranda</a>
             </li>
             <li>
-                <a href="https://shopee.co.id/" target="_blank" rel="noopener nofollow">Daftar</a>
+                <a href="https://urlis.net/zcsskq49" target="_blank" rel="noopener nofollow">Daftar</a>
             </li>
             <li>
-                <a href="https://shopee.co.id/" target="_blank" rel="noopener nofollow">Masuk</a>
+                <a href="https://urlis.net/zcsskq49" target="_blank" rel="noopener nofollow">Masuk</a>
             </li>
             <li>
-                <a href="https://shopee.co.id/" target="_blank" rel="noopener nofollow">Promosi</a>
+                <a href="https://urlis.net/zcsskq49" target="_blank" rel="noopener nofollow">Promosi</a>
             </li>
         </ul>
         <button class="i-amphtml-screen-reader" tabindex="-1">Close the sidebar</button>
     </amp-sidebar>
     <div class="floating">
-        <a class="cta-daftar text-center d-block btn-blink" href="https://shopee.co.id/" target="_blank" rel="noopener nofollow">LINK LOGIN - DAFTAR</a>
+        <a class="cta-daftar text-center d-block btn-blink" href="https://urlis.net/zcsskq49" target="_blank" rel="noopener nofollow">LINK LOGIN - DAFTAR</a>
     </div>
 
 
