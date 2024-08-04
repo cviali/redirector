@@ -20,11 +20,38 @@ Route::get('/', function () {
 
 Route::get('/sitemap', function () {
 
-    // buat halaman index utama, disini saya contohkan ada 4 halaman, home, course, event dan artikel
     $sitemap = Sitemap::create()
         ->add(Url::create('/'))
-        ->add(Url::create('/course'))
-        ->add(Url::create('/artikel'));
+        ->add(Url::create('/jonitogel'))
+        ->add(Url::create('/obor138'))
+        ->add(Url::create('/bgibola'))
+        ->add(Url::create('/kaisar888'))
+        ->add(Url::create('/mas4d'))
+        ->add(Url::create('/arwanatoto'))
+        ->add(Url::create('/shiokambing'))
+        ->add(Url::create('/megaslot88'))
+        ->add(Url::create('/daya4d'))
+        ->add(Url::create('/protogel'))
+        ->add(Url::create('/hujantoto'))
+        ->add(Url::create('/rajaspin'))
+        ->add(Url::create('/luxury333'))
+        ->add(Url::create('/mpo888'))
+        ->add(Url::create('/yotogel'))
+        ->add(Url::create('/papua4d'))
+        ->add(Url::create('/top1toto'))
+        ->add(Url::create('/jon4d'))
+        ->add(Url::create('/visitorbet'))
+        ->add(Url::create('/udintogel'))
+        ->add(Url::create('/unoslot'))
+        ->add(Url::create('/silverbola'))
+        ->add(Url::create('/ziatogel'))
+        ->add(Url::create('/gen77'))
+        ->add(Url::create('/timnas4d'))
+        ->add(Url::create('/yoda4d'))
+        ->add(Url::create('/asialive'))
+        ->add(Url::create('/betogel'))
+        ->add(Url::create('/senang4d'));
+
 
     $sitemap->writeToFile(public_path('sitemap.xml'));
 
