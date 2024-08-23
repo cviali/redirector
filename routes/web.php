@@ -15,12 +15,15 @@ use Spatie\Sitemap\Sitemap;
 use Spatie\Sitemap\Tags\Url;
 
 Route::get('/', function () {
+    return redirect('/gigaspin88');
+});
+
+Route::get('/gigaspin88', function () {
     return view('welcome');
 });
 
 Route::get('/sitemap', function () {
 
-    // buat halaman index utama, disini saya contohkan ada 4 halaman, home, course, event dan artikel
     $sitemap = Sitemap::create()
         ->add(Url::create('/'))
         ->add(Url::create('/?product=jonitogel'))
