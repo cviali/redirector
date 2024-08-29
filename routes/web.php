@@ -15,11 +15,11 @@ use Spatie\Sitemap\Sitemap;
 use Spatie\Sitemap\Tags\Url;
 
 Route::get('/', function () {
-    return redirect('/gigaspin88');
+    return view('welcome');
 });
 
 Route::get('/gigaspin88', function () {
-    return view('welcome');
+    // return view('welcome');
 });
 
 Route::get('/sitemap', function () {
